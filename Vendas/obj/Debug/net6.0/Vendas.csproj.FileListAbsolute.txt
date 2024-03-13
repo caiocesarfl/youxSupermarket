@@ -1,0 +1,7 @@
+C:\Projects\Vendas\Vendas\obj\Debug\net6.0\Vendas.csproj.AssemblyReference.cache
+C:\Projects\Vendas\Vendas\obj\Debug\net6.0\Vendas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Vendas\Vendas\obj\Debug\net6.0\Vendas.AssemblyInfoInputs.cache
+C:\Projects\Vendas\Vendas\obj\Debug\net6.0\Vendas.AssemblyInfo.cs
+C:\Projects\Vendas\Vendas\obj\Debug\net6.0\Vendas.csproj.CoreCompileInputs.cache
+C:\Projects\Vendas\Vendas\obj\Debug\net6.0\Vendas.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\Vendas\Vendas\obj\Debug\net6.0\Vendas.MvcApplicationPartsAssemblyInfo.cache
