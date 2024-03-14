@@ -1,4 +1,4 @@
-namespace LanchesMac;
+namespace Vendas;
 public class Program
 {
     public static void Main(string[] args)

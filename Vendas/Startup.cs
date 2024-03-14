@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using static Vendas.Data.AppDataContext;
 
-namespace LanchesMac;
+namespace Vendas;
 public class Startup
 {
     public Startup(IConfiguration configuration)
