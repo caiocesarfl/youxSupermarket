@@ -5,7 +5,8 @@ namespace Vendas.Repositories.Interfaces
 {
     public interface IClienteRepository
     {
-        IEnumerable<Cliente> Produtos { get; }
+        IEnumerable<Cliente> Cliente { get; }
+
         Cliente GetClienteById(int clienteId);
 
     }
