@@ -13,7 +13,7 @@ namespace Vendas.Data
             }
 
             // Define as entidades do banco de dados como propriedades DbSet
-            public DbSet<Cliente> Cliente { get; set; }
+            public DbSet<Cliente> ? Cliente { get; set; }
         }
     }
 }
