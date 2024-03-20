@@ -7,13 +7,13 @@ namespace Vendas.Repositories
 {
     public class ClienteRepository : IClienteRepository
     {
-        private readonly AppDataContext _context;
-        public ClienteRepository(AppDataContext contexto)
+        private readonly AppDbContext _context;
+        public ClienteRepository(AppDbContext contexto)
         {
             _context = contexto;
         }
 
-        public IEnumerable<Cliente> Produtos => throw new NotImplementedException();
+        public IEnumerable<Cliente> Cliente => throw new NotImplementedException();
 
         public Cliente GetClienteById(int clienteId)
         {

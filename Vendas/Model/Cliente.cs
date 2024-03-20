@@ -4,7 +4,7 @@ namespace Vendas.Model
 {
     public class Cliente
     {
-        public int CategoriaId { get; set; }
+        public int ClienteId { get; set; }
 
         public string? Nome { get; set; }
         public string? CNPJ { get; set; }

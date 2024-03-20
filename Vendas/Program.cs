@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
-using static Vendas.Data.AppDataContext;
+using Vendas.Data;
+using static Vendas.Data.AppDbContext;
 
 var builder = WebApplication.CreateBuilder(args);
 
